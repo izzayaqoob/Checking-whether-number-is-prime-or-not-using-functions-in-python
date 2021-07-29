@@ -1,0 +1,1 @@
+# Checking-whether-number-is-prime-or-not-using-functions-in-python
